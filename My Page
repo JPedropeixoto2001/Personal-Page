@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Page</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+</head>
+<header>
+    <center><img src="https://scontent.fsjp6-1.fna.fbcdn.net/v/t1.0-9/s960x960/52849931_2064299223654991_2687317365879734272_o.jpg?_nc_cat=110&_nc_sid=7aed08&_nc_ohc=bYaDbatVfB0AX-kOJwb&_nc_ht=scontent.fsjp6-1.fna&_nc_tp=7&oh=bfa95e62100d5833609fbd7962a54836&oe=5E96241B  " alt="Me" width="20%" height="250"></center>
+    <center><p><u><font size="7" face="Georgia, Arial" color="#000000">João Pedro dos Santos Peixoto (JJackP)</font></u></p></center>
+
+</header>
+<body style="background-color:#3B3B3B">
+    <h1><font face="Georgia" color="white"><strong><i>Sobre mim</strong></i></font></h1>
+        <p> <font size="4" face="Arial" color="white">Meu nome é João Pedro dos Santos Peixoto, tenho 19 anos, estou cursando Ciência da computação na UNIP em Ribeirão Preto - SP. <br/> 
+    Atualmente sou aprendiz na empresa Sicoob Coopecredi (<a href="http://www.coopecredi.com.br/" target="_blank">Clique aqui</a>) em Guariba-SP, cidade onde estou morando. <br/>
+    Pretendo me aprofundar em desenvolvimento de jogos, ja participei de um pequeno projeto onde meu <strong>TCC</strong> junto ao meu grupo foi criar um jogo, simples e objetivo. Não trabalhei na parte operacional, mas sim na parte escrita desse trabalho.
+Me formei no ensino médio na <a href="https://etecguariba.com.br/" target="_blank">ETEC Bento Carlos Botelho do Amaral</a> junto ao curso técnico em Informática em 2018.</font></p>
+<br/>
+<br/>
+<h1><font face="Georgia" color="white"><strong><i>Formação</strong></i></font></h1>
+<ul>
+    <li><font size="4" face="Arial" color="white"><strong>Informática essencial</strong> - OnByte Guariba (2016)</font></li>
+    <li><font size="4" face="Arial" color="white"><strong>Técnico em Informática</strong> - ETEC Bento Carlos Botelho do Amaral (2018)</font></li>
+    <li><font size="4" face="Arial" color="white"><strong>Inglês-Avançado</strong> - CCAA Guariba (Cursando)</font></li>    
+<br/>
+<br/>
+
+<center><h1><font face="Georgia" color="white"><strong><i>Contato</strong></i></font></h1>
+<font  size="6" face="Georgia" color="white"><a href="https://www.facebook.com/joaopedro.peixoto.18" target="_blank">facebook </a>&nbsp &nbsp &nbsp &nbsp<a href="https://www.instagram.com/jpedro.peixoto/?hl=pt-br" target="_blank"> instagram</a>
+    &nbsp &nbsp &nbsp &nbsp<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-peixoto-336a7617a/" target="_blank">linkedIn</a></font><font size="5" face="Georgia" color="#0000EE">&nbsp &nbsp &nbsp &nbspjppeixoto2009@hotmail.com</font></center>
+    <br/>
+    <br/>
+
+
+<footer>
+    <p>
+   <font size="3" face="Arial" color="white">Todos os direitos reservados - Ultima alteração em <time datetime="2020-03-17">17/03/2020</time></font>
+</footer>
+</ul>
+</body>
+</html>
